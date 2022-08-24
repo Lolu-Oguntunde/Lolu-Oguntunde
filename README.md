@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Lolu-Oguntunde
+- 📚 I’m a Third Year Electrical Engineering Student at McMaster University
 - 👀 I’m interested in Software,Hardware or Project Management Roles
 - 🌱 I’m currently learning Embedded systems
 - 📫 How to reach me >> Mail(ogunto1@mcmaster.ca)|| phone(+16132660474)
