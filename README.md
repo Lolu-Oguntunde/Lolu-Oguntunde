@@ -2,7 +2,7 @@
 - 📚 I’m a Final Year Electrical Engineering Student at McMaster University
 - 👀 I’m interested in Hardware Roles
 - 🌱 I’m currently learning Embedded systems
-- 📫 How to reach me >> Mail(ogunto1@mcmaster.ca)|| phone(+16132660474)
+- 📫 How to reach me >> Mail(ogunto1@mcmaster.ca)
 
 <!---
 Lolu-Oguntunde/Lolu-Oguntunde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
